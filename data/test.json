@@ -1,0 +1,47 @@
+[
+    {
+        "city": "Place1", 
+        "growth_from_2000_to_2013": "4.8%", 
+        "latitude": 20.9216725, 
+        "longitude": -89.6658166, 
+        "population": "90000", 
+        "rank": "1", 
+        "state": "New York"
+    }, 
+    {
+        "city": "Place2", 
+        "growth_from_2000_to_2013": "4.8%", 
+        "latitude": 20.9858935, 
+        "longitude": -89.6727756, 
+        "population": "90000", 
+        "rank": "1", 
+        "state": "New York"
+    }, 
+    {
+        "city": "Place3", 
+        "growth_from_2000_to_2013": "4.8%", 
+        "latitude": 20.9692005, 
+        "longitude": -89.5846395, 
+        "population": "90000", 
+        "rank": "1", 
+        "state": "New York"
+    }, 
+    {
+        "city": "Place4", 
+        "growth_from_2000_to_2013": "4.8%", 
+        "latitude": 20.9268914, 
+        "longitude": -89.6459093, 
+        "population": "90000", 
+        "rank": "1", 
+        "state": "New York"
+    }, 
+    {
+        "city": "Place5", 
+        "growth_from_2000_to_2013": "4.8%", 
+        "latitude": 20.9856876, 
+        "longitude": -89.6442146, 
+        "population": "90000", 
+        "rank": "1", 
+        "state": "New York"
+    }
+]

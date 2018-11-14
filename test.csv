@@ -1,0 +1,446 @@
+[   {   'bounds': {   'northeast': {'lat': 21.2770522, 'lng': -89.5544865},
+                      'southwest': {'lat': 20.8674994, 'lng': -89.7589479}},
+        'copyrights': 'Map data ©2018 Google, INEGI',
+        'legs': [   {   'distance': {'text': '68.2 km', 'value': 68218},
+                        'duration': {'text': '1 hour 8 mins', 'value': 4076},
+                        'duration_in_traffic': {   'text': '1 hour 6 mins',
+                                                   'value': 3946},
+                        'end_address': 'Calle 17 886, Chelem, Yuc., Mexico',
+                        'end_location': {'lat': 21.2683294, 'lng': -89.7565618},
+                        'start_address': 'Unnamed Road, Yucatán, Mexico',
+                        'start_location': {   'lat': 20.8846611,
+                                              'lng': -89.5544865},
+                        'steps': [   {   'distance': {   'text': '0.4 km',
+                                                         'value': 351},
+                                         'duration': {   'text': '2 mins',
+                                                         'value': 90},
+                                         'end_location': {   'lat': 20.8836593,
+                                                             'lng': -89.5568219},
+                                         'html_instructions': 'Head '
+                                                              '<b>northwest</b><div '
+                                                              'style="font-size:0.9em">Restricted '
+                                                              'usage '
+                                                              'road</div>',
+                                         'polyline': {   'points': 'c`n~BpbraPEDCBCBCBC@GFKLGFGHCFGFCBC@EBCBC@CBABABABCBA@CBCBA@A@AB?@A@?B?@?@@?@BB@@@B@F@DBFDFDFHFFBDBDBFDDTV|@bA^^VPXV\\ZZZT\\'},
+                                         'start_location': {   'lat': 20.8846611,
+                                                               'lng': -89.5544865},
+                                         'travel_mode': 'DRIVING'},
+                                     {   'distance': {   'text': '27 m',
+                                                         'value': 27},
+                                         'duration': {   'text': '1 min',
+                                                         'value': 10},
+                                         'end_location': {   'lat': 20.8837682,
+                                                             'lng': -89.5570443},
+                                         'html_instructions': 'Turn '
+                                                              '<b>right</b>',
+                                         'maneuver': 'turn-right',
+                                         'polyline': {   'points': '{ym~BbqraPEFEHABCDADAH'},
+                                         'start_location': {   'lat': 20.8836593,
+                                                               'lng': -89.5568219},
+                                         'travel_mode': 'DRIVING'},
+                                     {   'distance': {   'text': '0.3 km',
+                                                         'value': 268},
+                                         'duration': {   'text': '1 min',
+                                                         'value': 72},
+                                         'end_location': {   'lat': 20.8819104,
+                                                             'lng': -89.5578566},
+                                         'html_instructions': 'Turn '
+                                                              '<b>left</b>',
+                                         'maneuver': 'turn-left',
+                                         'polyline': {   'points': 'qzm~BnrraPt@?dABl@@f@BNAJ@D?B@B?D?B?R?P@N@F?F@B?B@BBDB@D@D@JBPDh@Dr@'},
+                                         'start_location': {   'lat': 20.8837682,
+                                                               'lng': -89.5570443},
+                                         'travel_mode': 'DRIVING'},
+                                     {   'distance': {   'text': '2.8 km',
+                                                         'value': 2799},
+                                         'duration': {   'text': '4 mins',
+                                                         'value': 260},
+                                         'end_location': {   'lat': 20.8683162,
+                                                             'lng': -89.5753354},
+                                         'html_instructions': 'Turn '
+                                                              '<b>left</b>',
+                                         'maneuver': 'turn-left',
+                                         'polyline': {   'points': '}nm~BrwraPl@B|AFhFLpGRhBHrAD~@@J@L?J@JB|KhBtAThBZhBZrAPlALlANH@FBFDDFBD@@BHDP\\zB^fCh@nD\\zBV~Ah@lDPhAb@tCj@nDXfB`@nCj@zDb@lCd@zCd@xCn@~D^bCf@xCxAnJh@jD'},
+                                         'start_location': {   'lat': 20.8819104,
+                                                               'lng': -89.5578566},
+                                         'travel_mode': 'DRIVING'},
+                                     {   'distance': {   'text': '0.4 km',
+                                                         'value': 352},
+                                         'duration': {   'text': '1 min',
+                                                         'value': 50},
+                                         'end_location': {   'lat': 20.8674994,
+                                                             'lng': -89.5786096},
+                                         'html_instructions': 'Continue onto '
+                                                              '<b>Calle 15 '
+                                                              'Diagonal</b>',
+                                         'polyline': {   'points': '_zj~BzdvaPBJBRzBnN^|B'},
+                                         'start_location': {   'lat': 20.8683162,
+                                                               'lng': -89.5753354},
+                                         'travel_mode': 'DRIVING'},
+                                     {   'distance': {   'text': '2.0 km',
+                                                         'value': 1969},
+                                         'duration': {   'text': '3 mins',
+                                                         'value': 167},
+                                         'end_location': {   'lat': 20.8757273,
+                                                             'lng': -89.5951175},
+                                         'html_instructions': 'Turn '
+                                                              '<b>right</b> '
+                                                              'onto <b>Mérida '
+                                                              '- Timucuy</b>',
+                                         'maneuver': 'turn-right',
+                                         'polyline': {   'points': '{tj~BhyvaPUn@e@xAeD|JwBbHaB~EcA~Cu@xBYz@cEfMyBvGo@nBk@dBo@lB[bAq@rBk@hBu@xB[|@O^MX_@n@[f@MNk@r@q@j@{@p@OHEBE@a@POFKDOFGDEBABKJ'},
+                                         'start_location': {   'lat': 20.8674994,
+                                                               'lng': -89.5786096},
+                                         'travel_mode': 'DRIVING'},
+                                     {   'distance': {   'text': '5.3 km',
+                                                         'value': 5306},
+                                         'duration': {   'text': '8 mins',
+                                                         'value': 462},
+                                         'end_location': {   'lat': 20.9220688,
+                                                             'lng': -89.6055804},
+                                         'html_instructions': 'Slight '
+                                                              '<b>right</b> to '
+                                                              'stay on '
+                                                              '<b>Mérida - '
+                                                              'Timucuy</b>',
+                                         'maneuver': 'turn-slight-right',
+                                         'polyline': {   'points': 'ihl~Bn`zaPqB\\gMvBaDh@e@HaC`@_J~A}B^cAP_Ep@yARc@BmBLwABcBB}CDsCDuCBmDF}AJS@u@JcBPwH|@iXzC}CZw@JWB{BVm@HI@gD^s@H{Dd@{@JWBg@Dw@Hu@JaBPm@H]FuBXSCE?A?{@J{H|@gEd@s@FuGv@iANqCXcFh@}Fp@kCX_AJ_CXiEb@cEf@sEh@gEd@cGp@}@Ng@HQFaCt@q@\\mAj@_Ah@cAr@qAbA}DrCML'},
+                                         'start_location': {   'lat': 20.8757273,
+                                                               'lng': -89.5951175},
+                                         'travel_mode': 'DRIVING'},
+                                     {   'distance': {   'text': '27 m',
+                                                         'value': 27},
+                                         'duration': {   'text': '1 min',
+                                                         'value': 3},
+                                         'end_location': {   'lat': 20.9222151,
+                                                             'lng': -89.60537459999999},
+                                         'html_instructions': 'Turn '
+                                                              '<b>right</b> '
+                                                              'toward <b>Calle '
+                                                              '24</b>/<b>Calle '
+                                                              '62</b>/<b>Campeche-Mérida</b>/<b>Carr. '
+                                                              'Costera del '
+                                                              'Golfo '
+                                                              'E</b>/<b>Lic. '
+                                                              'Manuel '
+                                                              'Berzunza</b>/<b>Perif. '
+                                                              'de Mérida Lic. '
+                                                              'Manuel '
+                                                              'Berzunza</b>/<b>México '
+                                                              '180 E</b>',
+                                         'maneuver': 'turn-right',
+                                         'polyline': {   'points': '}iu~Bza|aP]i@'},
+                                         'start_location': {   'lat': 20.9220688,
+                                                               'lng': -89.6055804},
+                                         'travel_mode': 'DRIVING'},
+                                     {   'distance': {   'text': '0.4 km',
+                                                         'value': 354},
+                                         'duration': {   'text': '1 min',
+                                                         'value': 30},
+                                         'end_location': {   'lat': 20.9242987,
+                                                             'lng': -89.6028175},
+                                         'html_instructions': 'Take the '
+                                                              '<b>Carretera '
+                                                              'Federal 180</b> '
+                                                              'ramp on the '
+                                                              '<b>left</b> to '
+                                                              '<b>Valladolid</b>/<b>Cancún</b>',
+                                         'polyline': {   'points': '{ju~Bp`|aP{@sA}@qAaAuAk@y@{@gAe@k@OWSWQSMGQG'},
+                                         'start_location': {   'lat': 20.9222151,
+                                                               'lng': -89.60537459999999},
+                                         'travel_mode': 'DRIVING'},
+                                     {   'distance': {   'text': '4.8 km',
+                                                         'value': 4774},
+                                         'duration': {   'text': '4 mins',
+                                                         'value': 240},
+                                         'end_location': {   'lat': 20.9520234,
+                                                             'lng': -89.5681718},
+                                         'html_instructions': 'Merge onto '
+                                                              '<b>Calle '
+                                                              '24</b>/<b>Calle '
+                                                              '62</b>/<b>Campeche-Mérida</b>/<b>Carr. '
+                                                              'Costera del '
+                                                              'Golfo '
+                                                              'E</b>/<b>Lic. '
+                                                              'Manuel '
+                                                              'Berzunza</b>/<b>Perif. '
+                                                              'de Mérida Lic. '
+                                                              'Manuel '
+                                                              'Berzunza</b>/<b>México '
+                                                              '180 E</b><div '
+                                                              'style="font-size:0.9em">Continue '
+                                                              'to follow '
+                                                              'Campeche-Mérida/Carr. '
+                                                              'Costera del '
+                                                              'Golfo E/Lic. '
+                                                              'Manuel '
+                                                              'Berzunza/Perif. '
+                                                              'de Mérida Lic. '
+                                                              'Manuel '
+                                                              'Berzunza/México '
+                                                              '180 E</div>',
+                                         'maneuver': 'merge',
+                                         'polyline': {   'points': '{wu~Brp{aP_AuAgF_IuB_DYc@a@m@}DaGmAcBg@w@gCsDuBaDcAeBYa@oAkBoDkFGKCECE_BcCwBaDsAqBKQ]g@MQACU]_@i@yG_KqAsBwAwBuAsB{AyBe@s@m@cAMS]i@KOKM]i@qBwCkAcBs@eAsCgEsCmEwCgEiAkBgHqKWc@]k@[c@OSgBcCqDuFkAgBYa@s@cAMQgAcBiBsC{AwBkAkBmA_BqAwAs@q@YW_@[eBwA_Ao@kBeASMu@]_@Q_@S_A]WKyAi@mA[YK'},
+                                         'start_location': {   'lat': 20.9242987,
+                                                               'lng': -89.6028175},
+                                         'travel_mode': 'DRIVING'},
+                                     {   'distance': {   'text': '14.9 km',
+                                                         'value': 14896},
+                                         'duration': {   'text': '12 mins',
+                                                         'value': 696},
+                                         'end_location': {   'lat': 21.0489958,
+                                                             'lng': -89.62564259999999},
+                                         'html_instructions': 'Keep '
+                                                              '<b>left</b> to '
+                                                              'continue on '
+                                                              '<b>Calle '
+                                                              '10</b>/<b>Perif. '
+                                                              'de Mérida Lic. '
+                                                              'Manuel '
+                                                              'Berzunza</b>/<b>México '
+                                                              '180 E</b><div '
+                                                              'style="font-size:0.9em">Continue '
+                                                              'to follow '
+                                                              'Perif. de '
+                                                              'Mérida Lic. '
+                                                              'Manuel '
+                                                              'Berzunza</div>',
+                                         'maneuver': 'keep-left',
+                                         'polyline': {   'points': 'ce{~B`xtaPcDg@gBUcBO_BQuBMw@GA?GAa@CkBOA?A?GA]C{Gm@gOiAmAKC?kAM{DWQAuK{@yCSgAKiOoAWAWCmBOYC_BM_DWuMcAaBKo@EoAOC?wBMeCS{@ImD[cE][Ea@A}@IuE[eBOeHo@KAkBOIAuAKYCk@EgCSm@EEAoYsBqAKgJq@oAI{@Ki@EuAMaDSk@EcFa@aDWqAKQCs@EeAIEAgE]gE[C?aHk@YCYE[AA?KAMAK?IAA?WCWCWCcIk@u@GqAKe@CaACQ?sAAq@?s@?k@@cBBa@@aAF_BPWBWDq@Jw@L_Fr@OB{@LaG`Au@Jm@J{ATsATSB]F[D[D]FiLhB{LjBWFe@F_ANq@JYDg@HcANcANYFa@Fm@Hw@LeBVa@Fi@Js@JuAVgBb@YFOF[LYJWNYLUNWNe@Zm@d@u@p@yA|AwAzAuF|F{A~AoDrDc@b@_BfB_G~F]b@g@j@STY\\gDjDWXUV]`@W\\g@p@o@bAWd@[l@OZMVSh@Sl@}@xCa@zAsClLcClJ_DzLa@|Aw@`Dc@dBaApDkAnECNsAjFEPg@lBw@zCi@xBMh@Qj@oA`FeBnGk@`Cu@tC{CnLaAnDI\\K\\sB`IaBpG{@`DQp@[lAcA|D}@lDk@tBiDzMSv@uApFyAzEk@fBc@fA]z@]x@[v@cB`EcB~Da@z@eIbR[t@sBrE}@vBYp@}BdFWj@Q`@_@z@a@z@Uh@Uh@}@rBSf@Sh@Uv@S|@Kf@Kp@In@I~@CZARCf@Cf@?d@@f@Bv@?P?PBf@BRLdB'},
+                                         'start_location': {   'lat': 20.9520234,
+                                                               'lng': -89.5681718},
+                                         'travel_mode': 'DRIVING'},
+                                     {   'distance': {   'text': '0.5 km',
+                                                         'value': 487},
+                                         'duration': {   'text': '1 min',
+                                                         'value': 43},
+                                         'end_location': {   'lat': 21.0490506,
+                                                             'lng': -89.6301208},
+                                         'html_instructions': 'Exit onto '
+                                                              '<b>Calle 19 '
+                                                              'Diagonal</b>',
+                                         'maneuver': 'ramp-right',
+                                         'polyline': {   'points': 'gcn_Cf_`bPAl@@`@?XA\\@X@X?RCVDl@HtB@@VxEJdBFdA@ZAH?FADCFCFCBGDo@\\'},
+                                         'start_location': {   'lat': 21.0489958,
+                                                               'lng': -89.62564259999999},
+                                         'travel_mode': 'DRIVING'},
+                                     {   'distance': {   'text': '15.8 km',
+                                                         'value': 15841},
+                                         'duration': {   'text': '11 mins',
+                                                         'value': 665},
+                                         'end_location': {   'lat': 21.1898798,
+                                                             'lng': -89.6527188},
+                                         'html_instructions': 'Merge onto '
+                                                              '<b>Calle '
+                                                              '50</b>/<b>Carr. '
+                                                              'Mérida - '
+                                                              'Progreso</b>/<b>México '
+                                                              '261</b><div '
+                                                              'style="font-size:0.9em">Continue '
+                                                              'to follow Carr. '
+                                                              'Mérida - '
+                                                              'Progreso/México '
+                                                              '261</div>',
+                                         'maneuver': 'merge',
+                                         'polyline': {   'points': 'qcn_Cf{`bPq@Fo@HkALoALsFh@_@BqD^{D^kE^a@FcBLgGl@s@FuJ`AmAJoAL{AN}@H]DcGf@cEViD\\e@F_ALoCV}Db@}Fh@_Hp@gE^{BPeD\\uJ|@mDZsCTe@DgAJs@Hs@FoIl@cNdAE?mALyFn@gFl@YBkCVu]`DaCPaCTwBRYBmLjA_AHyCRq@JgAJgIt@{BTeDZ_CR_@DgE^_AHkJ|@mE`@mCViCTgCVg@D{C\\o@Fq@FA?q@Fk@F{UtBoCV{Hx@uFj@qQbB{D`@mE`@qHl@_`@rD}Hv@_OtAaJz@uNtAuNvAaHp@sMpAa@Dw@HiBP{U|ByALaIz@aIz@yCXyQpB_VfCm@Do@D}ADqFHyBJyBFiABeCLaADiBH{@HcBNgD`@oDh@_K|AwK`BmCZsBRcCTqAFcNt@aMr@yUlAmOv@_FXoLn@iCLcBHgCLaBJ{Jj@mFZyBN'},
+                                         'start_location': {   'lat': 21.0490506,
+                                                               'lng': -89.6301208},
+                                         'travel_mode': 'DRIVING'},
+                                     {   'distance': {   'text': '7.2 km',
+                                                         'value': 7158},
+                                         'duration': {   'text': '5 mins',
+                                                         'value': 278},
+                                         'end_location': {   'lat': 21.2539148,
+                                                             'lng': -89.6597413},
+                                         'html_instructions': 'Keep '
+                                                              '<b>left</b> to '
+                                                              'stay on '
+                                                              '<b>Carr. Mérida '
+                                                              '- '
+                                                              'Progreso</b>/<b>México '
+                                                              '261</b>',
+                                         'maneuver': 'keep-left',
+                                         'polyline': {   'points': 'wsi`CnhebPeBLsQdAS?Q@E@{@By@BO@yTjAkH\\yEZi]jBiLn@sBLuX`BQ@k@BS@_@BgSfAoETqIb@e_@pBeI^wTjAwMt@iLr@mOv@mBHwDPaUfAM?aJb@u@DkTpAeDPqLj@C@eCJ}Ox@qER'},
+                                         'start_location': {   'lat': 21.1898798,
+                                                               'lng': -89.6527188},
+                                         'travel_mode': 'DRIVING'},
+                                     {   'distance': {   'text': '0.8 km',
+                                                         'value': 753},
+                                         'duration': {   'text': '1 min',
+                                                         'value': 48},
+                                         'end_location': {   'lat': 21.2585525,
+                                                             'lng': -89.6608062},
+                                         'html_instructions': 'Take the exit '
+                                                              'toward '
+                                                              '<b>Chuburna</b>/<b>Chelem</b>/<b>Yucalpeten</b>',
+                                         'maneuver': 'ramp-right',
+                                         'polyline': {   'points': '}cv`CjtfbP_@KGASAI?GAOC]IKEICwAk@mBw@aF}Ba@OE?KCGAGAG?K?K?M?Q@S@a@LIBMDSHQJMJ]ZMNORILKTIXSfAATAXBTBf@?J@P?DBd@D|@'},
+                                         'start_location': {   'lat': 21.2539148,
+                                                               'lng': -89.6597413},
+                                         'travel_mode': 'DRIVING'},
+                                     {   'distance': {   'text': '6.2 km',
+                                                         'value': 6183},
+                                         'duration': {   'text': '5 mins',
+                                                         'value': 307},
+                                         'end_location': {   'lat': 21.2700425,
+                                                             'lng': -89.7133221},
+                                         'html_instructions': 'Continue '
+                                                              'straight',
+                                         'maneuver': 'straight',
+                                         'polyline': {   'points': '}`w`C`{fbPLlCTbGHjBBp@@Xt@|NDl@TtFl@zMBp@PhDBj@`ArSXbG^lIDt@TzEh@bMl@`NPhDf@bLFdBPnDb@nJR|DX~FZfHJjC?X?p@Af@Cv@G~@Q~AYxAW`AY~@a@`A_@r@Yf@sAtBeCjDkF~Ho@dAaB~Bi@z@cBhCMNgBhCyAxBkAfBuApB_AtA{CnEGHmBrCoBpCsFhIa@l@wFlIkBlCCDe@h@SP_@Xg@Xi@Ti@Pu@Lq@Fo@?g@Ae@Go@Ky@W'},
+                                         'start_location': {   'lat': 21.2585525,
+                                                               'lng': -89.6608062},
+                                         'travel_mode': 'DRIVING'},
+                                     {   'distance': {   'text': '0.4 km',
+                                                         'value': 387},
+                                         'duration': {   'text': '1 min',
+                                                         'value': 25},
+                                         'end_location': {   'lat': 21.2728191,
+                                                             'lng': -89.711092},
+                                         'html_instructions': 'Continue onto '
+                                                              '<b>Yucalpetén</b>',
+                                         'polyline': {   'points': 'why`CfcqbPw@_@aAs@iEkDwAeAY]yAkAOIKC'},
+                                         'start_location': {   'lat': 21.2700425,
+                                                               'lng': -89.7133221},
+                                         'travel_mode': 'DRIVING'},
+                                     {   'distance': {   'text': '94 m',
+                                                         'value': 94},
+                                         'duration': {   'text': '1 min',
+                                                         'value': 6},
+                                         'end_location': {   'lat': 21.2736387,
+                                                             'lng': -89.7112872},
+                                         'html_instructions': 'Slight '
+                                                              '<b>left</b> '
+                                                              'toward '
+                                                              '<b>Chelem</b>',
+                                         'maneuver': 'turn-slight-left',
+                                         'polyline': {   'points': 'czy`ChupbPO@qALYDg@P'},
+                                         'start_location': {   'lat': 21.2728191,
+                                                               'lng': -89.711092},
+                                         'travel_mode': 'DRIVING'},
+                                     {   'distance': {   'text': '0.4 km',
+                                                         'value': 371},
+                                         'duration': {   'text': '1 min',
+                                                         'value': 34},
+                                         'end_location': {   'lat': 21.2769285,
+                                                             'lng': -89.7118923},
+                                         'html_instructions': 'Slight '
+                                                              '<b>right</b> '
+                                                              'onto '
+                                                              '<b>Chelem</b>',
+                                         'maneuver': 'turn-slight-right',
+                                         'polyline': {   'points': 'g_z`CpvpbPY@aAF}AR_D^Q?E?gFn@w@H'},
+                                         'start_location': {   'lat': 21.2736387,
+                                                               'lng': -89.7112872},
+                                         'travel_mode': 'DRIVING'},
+                                     {   'distance': {   'text': '1.9 km',
+                                                         'value': 1929},
+                                         'duration': {   'text': '2 mins',
+                                                         'value': 140},
+                                         'end_location': {   'lat': 21.2734606,
+                                                             'lng': -89.7299243},
+                                         'html_instructions': 'At the '
+                                                              'roundabout, '
+                                                              'take the '
+                                                              '<b>2nd</b> exit '
+                                                              'onto <b>Calle '
+                                                              '15</b>',
+                                         'maneuver': 'roundabout-right',
+                                         'polyline': {   'points': 'ysz`ChzpbPA??AA?A??AA?A?A?A?A??@A??@A??@A??@A??@?@?@?@?@?@?@@??@?@@??@@?NzAd@bE@DHZ`@nD`@`EVnCNbBf@bFD`@BRPlB@Fx@bH@RN~APdBj@vFPjBPdBj@tF@NPdBRfB\\lD@JXzCFp@@FXlBPjADNNb@X~@h@|AFL'},
+                                         'start_location': {   'lat': 21.2769285,
+                                                               'lng': -89.7118923},
+                                         'travel_mode': 'DRIVING'},
+                                     {   'distance': {   'text': '1.7 km',
+                                                         'value': 1701},
+                                         'duration': {   'text': '3 mins',
+                                                         'value': 172},
+                                         'end_location': {   'lat': 21.2689833,
+                                                             'lng': -89.745178},
+                                         'html_instructions': 'Continue onto '
+                                                              '<b>Calle 19</b>',
+                                         'polyline': {   'points': 'c~y`C~jtbP`@`Ah@|@f@v@BDnBnDNT~AjCJNDFrA`C`@r@FJX`@j@fA\\|@Zx@@Fd@hBThAVrDRtD@HRjD@FRhET~DRxDLlBFhA@JBdANtBRxDV|D'},
+                                         'start_location': {   'lat': 21.2734606,
+                                                               'lng': -89.7299243},
+                                         'travel_mode': 'DRIVING'},
+                                     {   'distance': {   'text': '0.1 km',
+                                                         'value': 113},
+                                         'duration': {   'text': '1 min',
+                                                         'value': 15},
+                                         'end_location': {   'lat': 21.2679789,
+                                                             'lng': -89.7450216},
+                                         'html_instructions': 'Turn '
+                                                              '<b>left</b> '
+                                                              'onto <b>Calle '
+                                                              '26</b>',
+                                         'maneuver': 'turn-left',
+                                         'polyline': {   'points': 'cby`CjjwbPrBKTCZG`@G'},
+                                         'start_location': {   'lat': 21.2689833,
+                                                               'lng': -89.745178},
+                                         'travel_mode': 'DRIVING'},
+                                     {   'distance': {   'text': '1.4 km',
+                                                         'value': 1439},
+                                         'duration': {   'text': '2 mins',
+                                                         'value': 110},
+                                         'end_location': {   'lat': 21.2645766,
+                                                             'lng': -89.758408},
+                                         'html_instructions': 'Turn '
+                                                              '<b>right</b> '
+                                                              'onto <b>Calle '
+                                                              '21</b>',
+                                         'maneuver': 'turn-right',
+                                         'polyline': {   'points': '{{x`CjiwbPZdDD\\LdBJr@BHl@xDTlAVtAr@vDb@xBXrAf@xCrAxGDNbBfJ|@rGz@rFPjADX`@nC'},
+                                         'start_location': {   'lat': 21.2679789,
+                                                               'lng': -89.7450216},
+                                         'travel_mode': 'DRIVING'},
+                                     {   'distance': {   'text': '0.3 km',
+                                                         'value': 315},
+                                         'duration': {   'text': '1 min',
+                                                         'value': 68},
+                                         'end_location': {   'lat': 21.2673549,
+                                                             'lng': -89.7589462},
+                                         'html_instructions': 'Turn '
+                                                              '<b>right</b> '
+                                                              'onto <b>Calle '
+                                                              '148</b>',
+                                         'maneuver': 'turn-right',
+                                         'polyline': {   'points': 'sfx`C`}ybPi@Fk@Fc@D[D[@Q?Q@E@QDUF]F[Dg@HuATUFMBQ@U?a@?'},
+                                         'start_location': {   'lat': 21.2645766,
+                                                               'lng': -89.758408},
+                                         'travel_mode': 'DRIVING'},
+                                     {   'distance': {   'text': '0.3 km',
+                                                         'value': 262},
+                                         'duration': {   'text': '1 min',
+                                                         'value': 67},
+                                         'end_location': {   'lat': 21.2677818,
+                                                             'lng': -89.7564725},
+                                         'html_instructions': 'Turn '
+                                                              '<b>right</b> '
+                                                              'onto <b>Calle '
+                                                              '17</b>',
+                                         'maneuver': 'turn-right',
+                                         'polyline': {   'points': '}wx`Cl`zbPA[?K?EBKAUEa@QkAKeAKw@e@sD'},
+                                         'start_location': {   'lat': 21.2673549,
+                                                               'lng': -89.7589462},
+                                         'travel_mode': 'DRIVING'},
+                                     {   'distance': {   'text': '62 m',
+                                                         'value': 62},
+                                         'duration': {   'text': '1 min',
+                                                         'value': 18},
+                                         'end_location': {   'lat': 21.2683294,
+                                                             'lng': -89.7565618},
+                                         'html_instructions': 'Turn '
+                                                              '<b>left</b> '
+                                                              'onto <b>Calle '
+                                                              '144</b>',
+                                         'maneuver': 'turn-left',
+                                         'polyline': {   'points': 'szx`C|pybPUBs@Fc@D'},
+                                         'start_location': {   'lat': 21.2677818,
+                                                               'lng': -89.7564725},
+                                         'travel_mode': 'DRIVING'}],
+                        'traffic_speed_entry': [],
+                        'via_waypoint': []}],
+        'overview_polyline': {   'points': 'c`n~BpbraP{AzAW\\GPTL\\XRZxB`CjB`BT\\EFGLEJAHt@?rBDv@@XBrADNNLlADr@l@BfITnOd@p@FfUvDxFp@XVh@xC~BrOvG~b@jIzh@~BbO^|BUn@kEvMyEbOwI|WeGzQoDzKk@|Am@hAi@v@}A~AwA`AmAf@[Xel@|JyGdAqCPmNRcIJqBL{f@vF}RxBuPlBsC`@YCaQnBse@jFaVnCkMvAeBXsC|@_ChAcC|AoGvEML]i@yBeDoEcGc@o@_@[QG_AuA}I_NgIwLoDkFyDgGaHeK_FqH}MiS{IyM_CuDgD_F_CiDgHuKaFsH_IuLiAcB_KcOsFmIgDcF_DwDsE}DkDuBiAk@wCoAgDeA}Ds@kEe@uE_@cBMwBQmd@oDac@kDwDYs`@yCsPwAqIm@iTiBqq@cFwXwBoY{BiBMkKw@gCSgBGkEAoCDcBHaEf@cJrAcRvCoa@nGkJvAeFv@}Dz@i@NgBv@aC`B}MhNoK~K}GbH{@`AoFzFu@~@wAtBqAfCg@vA_BtFyMth@oJd_@yKtb@wObm@iEnP}DrOoDlMkCdHeGtNuUji@mBjEqAzCi@`B_@dBU`BSvC@lDF~ALdBAl@@z@@dB@dAJvBl@`LG^GJw@b@}Fl@aSlBqa@xDiFf@eNdA_LjAc\\~C{b@zDmZzBiQnBej@`F_SlB}_@lDig@tEie@jEqPdBmWdC_OnA}i@jFmy@~HoYrCaf@xEuw@nI}AJoINcMd@kDN_DXwIjAwW~DaGn@uE\\mcAnFqu@bEgYbBsAFo`@nBau@dEg[hBie@dC{mArGw\\jBeHZgb@pBgg@pCcTdAqER_@K[CQAcAWeEcBcGmCa@Gm@?e@Bk@PaAf@eAlAUn@U|ADbBD|@tBrd@`LzeClBta@JdDAxAKvBk@xDq@`CaAtBmB|CqJjN_HjKuQ|WsN|ScJzMi@n@s@j@qAn@_B^aBFmAIiBc@yBsAaHqFsBiB[MaBNaAV{AH}Fr@W?_Hx@A??AC?AAE?EBCL@Dx@bHJ`@bApJtAxNpAlLnApMvC~Y`@lEZtBVzAh@bBp@jBjA~BjDbGdEdHnBhDx@vBf@pBThAVrDT~D~@|Pj@|J~@rPhCO|@Oz@|I~AfJxC~OxAhHbBfJ|@rGlA~Hf@hDuCZeADaBZaDj@g@@a@?A[?Q@a@o@kFe@sDUBwAL'},
+        'summary': 'Lic. Manuel Berzunza/Perif. de Mérida Lic. Manuel Berzunza '
+                   'and Carr. Mérida - Progreso/México 261',
+        'warnings': [],
+        'waypoint_order': []}]

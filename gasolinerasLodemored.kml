@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>gasolineras Lodemored</name>
+    <description/>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Capa sin nombre</name>
+      <Placemark>
+        <name>42 Sur (Magna,Premium,Diesel)</name>
+        <description>CORPORATIVO GASOLINERO DEL CARIBE SA DE CV  PERIFERICO TAB CAT 11497 X 57 Y 57-A COL. SAN HAROLDO KANASIN (CERCA DEL CUARTEL MILITAR) Teléfono: (999) 131-5359</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -89.598894,20.926898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Acoro (Magna,Premium)</name>
+        <description>SERVICIO ACORO, S.A. DE C.V. AV. NICHUPTE Y KINIK MZA 1 LOTE 1 SMZA 51 CANCUN Q.ROO (GRAN PLAZA) Teléfono: (998) 289-8041 y 42</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -86.855835,21.140575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeropuerto (Magna,Premium,Diesel)</name>
+        <description>ESTACIÓN DE SERVICIO CARIBE REAL S.A. DE C.V KM. 339 + 300 CARR. CANCUN-CHETUMAL COL. RANCHO LA ESPERANZAZA (2DO PUENTE) Teléfono: (998) 886-2470 y 88</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -86.855446,21.01322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cd. Caucel (Magna,Premium,Diesel)</name>
+        <description>CORPORATIVO GASOLINERO DEL CARIBE SA DE CV  CARR MERIDA-CAUCEL TAB CAT 10075  CP 97300 (A ESPALDAS DE WALMART) Teléfono: (999) 942-2158</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -89.676193,20.996872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cd. Industrial (Magna,Premium,Diesel)</name>
+        <description>COMBUSTIBLES DE YUCATÁN S.A. DE C.V. C. 21 POR 28 NO. 441 COL. CD. INDUSTRIAL (SOBRE AVENIDA INDUSTRIAL A 50 MTS DE BACHOCO) Teléfono: (999) 942-2157</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -89.684952,20.926855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Central de Abastos (Magna,Premium,Diesel)</name>
+        <description>ESTACIÓN DE SERVIVICOS PALMAS CANCÚN S.A. DE C.V. CARR. CANCUN-PTO MORELOS KM 17 RANCHO SANTA ANA (CENTRAL DE ABASTOS) Teléfono: (998) 886-2019 y 51</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -86.849968,21.04306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chichi Suarez (Magna,Premium,Diesel)</name>
+        <description>COMBUSTIBLES DE YUCATÁN S.A. DE C.V. C. 35 LOTE 44-A Y 45-A X 20 POLÍGONO 108 ITZIMNÁ (FRENTE A LA IXTABAY) Teléfono: (999) 942-2132</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -89.571175,20.998499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Circuito Colonias (Magna,Premium,Diesel)</name>
+        <description>COMBUSTIBLES DE YUCATÁN S.A. DE C.V. C.32 NO 196 X 15 Y 17 COL. GARCIA GINERÉS (FRENTE A LA GALLETERA DONDE) Teléfono: (999) 942-2152, 53 y 54</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -89.6380687,20.99061,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dieselera (Magna,Premium,Diesel)</name>
+        <description>DIESELERA DE MERIDA, S.A. DE C.V. CARR. MÉRIDA-MOTUL MARGEN SURESTE KM. 0.7 (ANTES DE LA FAC. DE ANTROPOLOGIA) Teléfono: (999) 942-2134</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -89.561417,21.026283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dzibilchaltun (Magna,Premium,Diesel)</name>
+        <description>ESTACIÓN DE SERVICIOS LAS PALMAS S.A. DE C.V. CARR. MERIDA-DZIBILCHALTUN TABLAJE 18408  (CARRETERA A LA UNIVERSIDAD DEL MAYAB) Teléfono: (999) 991-3636</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -89.625298,21.10384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dzitya (Magna,Premium,Diesel)</name>
+        <description>CORPORATIVO GASOLINERO DEL CARIBE SA DE CV  C. 69 T.C. 16697 X 70 Y 70 D COL DZITYA POLIGONO CHUBURNA CP 97300 (ENTRONQUE FRACC. LAS AMERICAS Y PARQUE INDUSTRIAL) Teléfono: (999) 941-2219</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -89.642327,21.057973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Facultad de Matemáticas (Magna,Premium,Diesel)</name>
+        <description>ESTACIÓN DE SERVICIOS LAS PALMAS S.A. DE C.V. C. #218-T x 54-A y 56 COL. CHUBURNA DE HIDALGO (FRENTE A LA FACULTAD DE MATEMATICAS) Teléfono: (999) 195-1465</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -89.645157,21.045921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Francisco de Montejo (Magna,Premium,Diesel)</name>
+        <description>COMBUSTIBLES DE YUCATÁN S.A. DE C.V. PERIFÉRICO TAB. CAT. NO. 13950. FCO. DE MONTEJO (AL LADO DE TRANSP. YUCARRO) Teléfono: (999) 942-2130 y 31</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -89.655754,21.033922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Itzaes (Magna,Premium,Diesel)</name>
+        <description>COMBUSTIBLES DE YUCATÁN S.A. DE C.V. C. 81-A NO. 600 COL. SAMBULA X AV. ITZAES (FRENTE A BEPENSA-EXCOCA) Teléfono: (999) 942-2150</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -89.649864,20.948589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Juan Pablo II (Magna,Premium)</name>
+        <description>COMBUSTIBLES DE YUCATÁN S.A. DE C.V. C. 33 NO. 180 X 14 FRANCISCO I. MADERO (AV. A CEMENTERIO XOCLAN) Teléfono: (999) 942-2126</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -89.650276,20.963774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Juan Pablo II (Superior) (Magna,Premium,Diesel)</name>
+        <description>CORPORATIVO GASOLINERO DEL CARIBE SA DE CV  PERIFERICO TAB CAT 13893 X 5-B COL. JUAN PABLO 2 CP 97246 (FRENTE A LAS BODEGAS DE LA SUPERIOR) Teléfono: (999) 942-2159</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -89.680152,20.98384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabah (Magna,Premium,Diesel)</name>
+        <description>ESTACIÓN DE SERVICIO CARIBE REAL S.A. DE C.V SMZA 17 MZA 3 LOTE 1 Y 2 S/N AV. LIBRAMIENTO KABAH-COPAN (PARQUE KABAH) Teléfono: (998) 892-1882 y 79</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -86.834282,21.143147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kanasin (Magna,Premium,Diesel)</name>
+        <description>COMBUSTIBLES DE YUCATÁN S.A. DE C.V. C. 19 NO. 25 X 36 CENTRO.  KANASIN, YUCATÁN (EN EL CENTRO) Teléfono: (999) 942-2138</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -89.56749,20.939491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kukulkan (Magna,Premium,Diesel)</name>
+        <description>COMBUSTIBLES DE YUCATÁN S.A. DE C.V. C. 18 NTE NO. 302 X 16 SLAVADOR ALVARADO SUR (FRENTE AL POLIFORUM ZAMNÁ) Teléfono: (999) 942-2142</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -89.593262,20.939798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Las Palmas (Magna,Premium,Diesel)</name>
+        <description>ESTACIÓN DE SERVIVICOS PALMAS CANCÚN S.A. DE C.V. CARR.  VALLADOLID-PTO JUÁREZ LOTE 34 KM 304.8  (SALIDA A MERIDA) Teléfono: (998) 898-6031 y 33</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -86.94442,21.116062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lindavista (Magna,Premium)</name>
+        <description>COMBUSTIBLES DE YUCATÁN S.A. DE C.V. C. 40 NO. 143 X 11 JARDINES DE LINDAVISTA (GASOLINERAS GEMELAS) Teléfono: (999) 942-2128</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -89.653465,21.011406,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Los Héroes (Magna,Premium,Diesel)</name>
+        <description>ESTACIÓN DE SERVICIO CARIBE REAL S.A. DE C.V AV. FELIPE CARRILLO PUERTO SM 215 MZ 1 LTE 158-04 COL LO HEROES (DENTRO DEL ESTACIONAMIENTO PLAZA HEROES) Teléfono: (998) 208-1818</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -86.873781,21.174426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Luma (Magna,Premium,Diesel)</name>
+        <description>LUMA GASOLINERIAS S.A. DE C.V. AV. TULUM POR AV. TULUM Y CABO CATOCHE MZ 1 LOTE 1 y 1-2 SUPERMANZANA 14 (FRENTE A LA CONSECIONARIA BMW) Teléfono: (998) 206-1936</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -86.83,21.131435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maraveg (Magna,Premium,Diesel)</name>
+        <description>ESTACION DE SERVICIO MARAVEG S.A DE C.V AV. JOSE LOPEZ PORTILLO KM 308+800 CANCUN Q.ROO (FRENTE A LA ENTRADA AL ARCO VIAL) Teléfono: (998) 881-5412</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -86.911415,21.131812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Melchor Ocampo (Magna,Premium,Diesel)</name>
+        <description>COMBUSTIBLES DE YUCATÁN S.A. DE C.V.. PERIFÉRICO X 51 DIAG. X 10B LOTE 336 Y 351B MELCHOR O. (DEBAJO DEL PUENTE) Teléfono: (999) 942-2136</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -89.564888,20.970814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Melitón Salazar (Magna,Premium)</name>
+        <description>CORPORATIVO GASOLINERO DEL CARIBE SA DE CV  CALLE 95 No. 560 Y 560-A X 66 COL. MELITON SALAZAR (FRENTE AL PANTEON FLORIDO) Teléfono: (999) 297-8848</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -89.636947,20.949269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mérida-Centro (Magna,Premium)</name>
+        <description>COMBUSTIBLES DE YUCATÁN S.A. DE C.V. C. 64 NO. 529 X 65 CENTRO (FRENTE A FUNERARIA POVEDA) Teléfono: (999) 942-2146</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -89.626297,20.965937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Motul (Magna,Premium,Diesel)</name>
+        <description>CORPORATIVO GASOLINERO DEL CARIBE SA DE CV  PERIFERICO KM 2 CARRETERA MOTUL - TELCHAC PUEBLO (SALIDA A TELCHAC PUEBLO) Teléfono: (991) 915-1457</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -89.282486,21.114733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nichpte (Magna,Premium,Diesel)</name>
+        <description>ESTACIÓN DE SERVICIO CARIBE REAL S.A. DE C.V CARRETERA MERIDA - CANCUN  MZA. 33 LTE. 7-05  COL. REGION 104 (CENTRAL DE CARGA) Teléfono: (998) 881-5414 y 15</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -86.894409,21.14097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Noh Pat (Magna,Premium,Diesel)</name>
+        <description>COMBUSTIBLES DE YUCATÁN S.A. DE C.V. TAB. CAT. 15679 MZA 34 ZONA 1 LOTE1 SN PEDRO NOH-PAT (CARRETERA MERIDA-CANCUN) Teléfono: (999) 942-2144</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -89.560471,20.950296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pensiones (Magna,Premium,Diesel)</name>
+        <description>COMBUSTIBLES DE YUCATÁN S.A. DE C.V. C. 15 X AV 128 NO. 74 FRACC. RESIDENCIAL PENSIONES (A ESPALDAS DE SORIANA) Teléfono: (999) 942-2148</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -89.663223,20.997915,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Periferico 50 (Magna,Premium,Diesel)</name>
+        <description>FOMENTO GASOLINERO S.A. DE C.V. C. 161 #921 X 46-C y 48 COL. PLAN DE AYALA SUR (LATERAL DEL PERIFERICO, UNOS MTS ANTES DEL PUENTE A X´MATKUIL) Teléfono: (999) 254-0850</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -89.6175,20.914291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Periferico Sur (Magna,Premium,Diesel)</name>
+        <description>COMBUSTIBLES DE YUCATÁN S.A. DE C.V. 300 MTS ANTES DE LA SALIDA A CAMPECHE (A POCOS METROS DEL PUENTE) Teléfono: (999) 942-2155</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -89.668106,20.895023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Playa del Carmen (Magna,Premium,Diesel)</name>
+        <description>ESTACION DE SERVICIO CHIT S.A. DE C.V. CARR. FEDERAL ENTRE CALLE 50 PTE MZA 40 LOTE 1  PLAYA DEL CARMEN (FRENTE A LA COCA COLA ) Teléfono: (984) 109-6330</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -87.049126,20.673573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza Avenidas (Magna,Premium)</name>
+        <description>ESTACIÓN DE SERVICIOS DEL CARIBE S.A. DE C.V. LOTE 3 Y 5 S.M. 2 AV YAXCHILAN X XCARET Y COBA (PLAZA LAS AVENIDAS) Teléfono: (998) 887-8072 y 73</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -86.829208,21.157045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza Dorada (Magna,Premium)</name>
+        <description>ESTACION DE SERVICIOS PONIENTE S.A. DE C.V. C. 50 NO. 138 X 21 MIGUEL HIDALGO (FRENTE A EX ESTABLECIMIENTO  BIG HOME) Teléfono: (999) 942-2124</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -89.651443,20.99192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza Fiesta (Magna,Premium)</name>
+        <description>EMILIO LORET DE MOLA GOMORY C. 6 NO 439 X 17 COL.  DIAZ ORDAZ (FRENTE A BANAMEX  PLAZA FIESTA) Teléfono: (999) 942-2140</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -89.596191,21.001141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza las Américas (Magna,Premium)</name>
+        <description>ESTACIÓN DE SERVICIO CARIBE REAL S.A. DE C.V SMZA 8 MZA 1 LOTE 3 INT B AV. TULUM ESQ. NICHUPTE (PLAZA LAS AMERICAS) Teléfono: (998) 892-1903 y 04</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -86.823174,21.143782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Santa Rosa (Magna,Premium)</name>
+        <description>COMBUSTIBLES DE YUCATÁN S.A. DE C.V. C.115 NO. 404-A Y 404-B  POR 48 COL. SANTA ROSA (A UN COSTADO SE SUPER BODEGA STA. ROSA) Teléfono: (999) 942-2116</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -89.618584,20.938311,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sodzil (Magna,Premium,Diesel)</name>
+        <description>CORPORATIVO GASOLINERO DEL CARIBE SA DE CV   (LATERAL DEL PERIFERICO, UNOS MTS DE ACEROFERTAS) Teléfono:</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -89.615237,21.044425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tanlum (Magna,Premium)</name>
+        <description>COMBUSTIBLES DE YUCATÁN S.A. DE C.V. C. 8A NO. 82 X CIRC. COL. Y 39 DIAG. PED. DE TANLUM (CERCA A LA NISSAN) Teléfono: (999) 942-2122 y 23</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -89.628448,20.997545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tehuitz (Magna,Premium,Diesel)</name>
+        <description>ESTACIÓN DE SERVICIOS LAS PALMAS S.A. DE C.V. CARR. KANASIN - ACANCEH TABLAJE 15912 COL .KANASIN (200 MTS. ANTES DEL ENTRONQUE DE KANASIN) Teléfono: (999) 254-0282</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -89.510452,20.896063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tizimin (Magna,Premium,Diesel)</name>
+        <description>ESTACIÓN DE SERVICIOS LAS PALMAS S.A. DE C.V. KM.0+80 CARRET. TIZIMIN - RIO LAGARTOS. TIZIMIN YUC. (A 300 MTS DE LAS BODEGAS DE LA SUPERIOR) Teléfono: (986) 866-5150</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -88.154289,21.166304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Uman (Magna,Premium,Diesel)</name>
+        <description>CORPORATIVO GASOLINERO DEL CARIBE SA DE CV  KM 19.5 CARRETERA MERIDA- UMAN C. 21 No 471 COL. AMPLIACION CIUDAD INDUSTRIAL (A UN COSTADO DE LA EMPRESA DYPAQ ) Teléfono: (999) 919-0050</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -89.700118,20.919194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zona Hotelera (Magna,Premium)</name>
+        <description>INMOBILIARIA DEL ZAZIL-HÁ S.A. DE C.V. ZONA HOTELERA KM 14+9.76 LAGUNA NICHUPTE, BENITO JUAREZ (ZONA HOTELERA) Teléfono: (998) 881-5419 y 20</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -86.774086,21.085859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yucalpeten (Magna, Premium, Diésel)</name>
+        <description>FOMENTO GASOLINERO S.A. DE C.V., CALLE 87, DEPTO A	No. 778	PARQUE IND. YUCALPETEN	PROGRESO	YUCATAN	97320	Mexico (Frente a la Glorieta del Ceviche) Teléfono: 999 9422100</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -89.6931526,21.2765343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chichi II (Magna,Premium)</name>
+        <description>COMBUSTIBLES DE YUCATÁN S.A. DE C.V.; Calle 35 x 2 y 4	No. 213	Santa Maria, Mérida	YUCATAN	97138	Mexico (A una esquina de la salida al Periférico hacia Hacienda Chichi Suárez)</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -89.5627275,20.9989929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Canek (Magna,Premium,Diesel)</name>
+        <description>CORPORATIVO GASOLINERO DEL CARIBE SA DE CV. CALLE 59-A X 88 Y 90 no. 601, CENTRO. MERIDA, YUCATAN, CP 97000 (FRENTE AL LOCAL DEL SNTE)</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -89.6433306,20.977291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lázaro Cárdenas (Magna, Premium, Diésel)</name>
+        <description>ESTACION DE SERVICIOS LAS PALMAS, S.A. de C.V. AVENIDA LAZARO CARDENAS S/N ENTRE CALLE PERU Y SOLIDARIDAD, COLONA LAS FLORES, SAN FRANCISCO DE CAMPECHE, CAMPECHE, CP 24097 (A UNOS METROS DEL IMSS)</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -90.5258685,19.8211405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Koben (Magna, Premium, Diésel)</name>
+        <description>ESTACION DE SERVICIOS LAS PALMAS, S.A. DE C.V. CARRETERA FEDERAL 180 CAMPECHE-MERIDA KM 12+035 TRAMO CAMPECHE-KOBEN, FRACCION D-1, CAMPECHE, CAMPECHE, CP 24500 (A UN COSTADO DE LA CARRETERA)</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -90.4457617,19.9005694,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Poxilá (Magna, Premium Diésel)</name>
+        <description>Carretera federal 180 campeche-merida km 139 t.c. 5967 parcela 108 z-6 Poxilá</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -89.8172879,20.7870309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
